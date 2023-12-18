@@ -1,0 +1,201 @@
+[
+    {
+      "frage": "Welche klassischen Schutzziele werden bei der Schutzbedarfsfeststellung gemäß IT-Grundschutz empfohlen?",
+      "antworten": [
+        {
+          "id": "L4f1a1",
+          "option": "1",
+          "text": "Authentizität",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L4f1a2",
+          "option": "2",
+          "text": "Verfügbarkeit",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L4f1a3",
+          "option": "3",
+          "text": "Vertraulichkeit",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L4f1a4",
+          "option": "4",
+          "text": "Integrität",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "In welchen Fällen können Sie gemäß IT-Grundschutz-Methodik auf die Schutzbedarfsfeststellung für ein IT-System verzichten?",
+      "antworten": [
+        {
+          "id": "L4f2a1",
+          "option": "1",
+          "text": "Wenn das IT-System spätestens innerhalb von 18 Monaten ausgesondert wird",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L4f2a2",
+          "option": "2",
+          "text": "Wenn das IT-System nicht eingesetzt wird",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L4f2a3",
+          "option": "3",
+          "text": "Wenn die Anwendungen, die es unterstützt, nur einen normalen Schutzbedarf haben",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L4f2a4",
+          "option": "4",
+          "text": "Wenn der Schutzbedarf bereits im Rahmen einer vor einem Jahr durchgeführten Revision festgestellt wurde",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Welche Kriterien berücksichtigen Sie bei der Bestimmung des Bedarfs an Verfügbarkeit eines IT-Systems?",
+      "antworten": [
+        {
+          "id": "L4f3a1",
+          "option": "1",
+          "text": "Die maximal tolerierbare Ausfallzeit des IT-Systems",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L4f3a2",
+          "option": "2",
+          "text": "Den Aufwand, der erforderlich ist, um das IT-System nach einer Beschädigung wiederherzustellen",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L4f3a3",
+          "option": "3",
+          "text": "Die Anzahl der Benutzer des IT-Systems",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L4f3a4",
+          "option": "4",
+          "text": "Die Anschaffungskosten des IT-Systems",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Was berücksichtigen Sie, wenn Sie den Schutzbedarf einer Anwendung bestimmen?",
+      "antworten": [
+        {
+          "id": "L4f4a1",
+          "option": "1",
+          "text": "Die Informationen, die im Zusammenhang mit der Anwendung verwendet werden",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L4f4a2",
+          "option": "2",
+          "text": "Die Bedeutung der Anwendung für die Geschäftsprozesse oder Fachaufgaben",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L4f4a3",
+          "option": "3",
+          "text": "Die relevanten Gefährdungen, denen die Anwendung ausgesetzt ist",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L4f4a4",
+          "option": "4",
+          "text": "Die räumliche Umgebung des IT-Systems, das die Anwendung bereitstellt",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Unter welchen Bedingungen kann der Schutzbedarf eines IT-Systems bezüglich Verfügbarkeit geringer sein als derjenige der Anwendungen, für die es eingesetzt wird?",
+      "antworten": [
+        {
+          "id": "L4f5a1",
+          "option": "1",
+          "text": "Wenn der Buchwert des IT-Systems einen zuvor definierten Schwellwert unterschreitet",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L4f5a2",
+          "option": "2",
+          "text": "Wenn das IT-System nur solche Teile der Anwendungen bedient, die einen geringeren Schutzbedarf haben",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L4f5a3",
+          "option": "3",
+          "text": "Wenn mindestens ein weiteres redundantes IT-System in Betrieb ist, das die betreffenden Anwendungen bereitstellen kann",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L4f5a4",
+          "option": "4",
+          "text": "Wenn die Anwendungen innerhalb der nächsten drei Monate so umstrukturiert werden sollen, dass das betreffende IT-System nicht mehr benötigt wird",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Wenn bei der Schutzbedarfsfeststellung für ein IT-System Kumulationseffekte berücksichtigt werden, bedeutet dies, dass …",
+      "antworten": [
+        {
+          "id": "L4f6a1",
+          "option": "1",
+          "text": "… sich der Schutzbedarf des IT-Systems erhöht, weil sich Einzelschäden zu einem höheren Gesamtschaden addieren.",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L4f6a2",
+          "option": "2",
+          "text": "… sich der Schutzbedarf des IT-Systems verringert, weil geeignete, sich gegenseitig verstärkende Sicherheitsmaßnahmen im Einsatz sind.",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L4f6a3",
+          "option": "3",
+          "text": "… sich der für das IT-System festgestellte Schutzbedarf auch auf den Schutzbedarf anderer IT-Systeme auswirkt, die mit dem betreffenden IT-System vernetzt sind.",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L4f6a4",
+          "option": "4",
+          "text": "… der Schutzbedarf des IT-Systems erst festgestellt werden kann, wenn der Schutzbedarf der mit diesem vernetzten IT-Systeme festgestellt ist.",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,201 @@
+[
+    {
+      "frage": "Was müssen Sie prüfen, wenn Sie die Umsetzung von Sicherheitsmaßnahmen planen?",
+      "antworten": [
+        {
+          "id": "L8f1a1",
+          "option": "1",
+          "text": "welche begleitenden Maßnahmen für eine erfolgreiche Umsetzung erforderlich sind",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L8f1a2",
+          "option": "2",
+          "text": "ob die betreffende Maßnahme bereits eingeführt ist",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L8f1a3",
+          "option": "3",
+          "text": "ob die Maßnahme mit anderen Maßnahmen vereinbar ist",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L8f1a4",
+          "option": "4",
+          "text": "in welcher Reihenfolge die verschiedenen Maßnahmen umgesetzt werden sollen",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Welche Informationen aus dem IT-Grundschutz-Kompendium unterstützen Sie bei der Festlegung einer sinnvollen Umsetzungsreihenfolge der geplanten Maßnahmen?",
+      "antworten": [
+        {
+          "id": "L8f2a1",
+          "option": "1",
+          "text": "die fünfstufige Kennziffer zur Angabe der Priorität einer Anforderung in den IT-Grundschutz-Bausteinen",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L8f2a2",
+          "option": "2",
+          "text": "die Aufteilung der Anforderungen in Basis- und Standard-Anforderungen sowie solchen für den höheren Schutzbedarf",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L8f2a3",
+          "option": "3",
+          "text": "der Vorschlag zur Kennzeichnung einer sinnvollen Bearbeitungsreihenfolge der Bausteine mithilfe der Kürzel R1, R2 und R3",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L8f2a4",
+          "option": "4",
+          "text": "die Darstellung der Gefährdungslage am Beginn eines Bausteins",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Was unternehmen Sie als Informationssicherheitsbeauftragter, wenn die Leitung Ihrer Institution nicht bereit ist, den Aufwand für eine bestimmte Sicherheitsmaßnahme zu tragen?",
+      "antworten": [
+        {
+          "id": "L8f3a1",
+          "option": "1",
+          "text": "Sie verdeutlichen ihr, welche Risiken mit dem Fehlen der Maßnahme verbunden sind.",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L8f3a2",
+          "option": "2",
+          "text": "Sie bitten die Leitung, durch Unterschrift zu bestätigen, dass sie die damit verbundenen Gefahren kennt und trägt.",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L8f3a3",
+          "option": "3",
+          "text": "Sie ignorieren die Leitung und setzen die Maßnahme trotzdem um.",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L8f3a4",
+          "option": "4",
+          "text": "Sie verzichten auf eine unmittelbare Reaktion, nehmen sich aber vor, nach Ablauf einer gewissen Zeitspanne die Zustimmung der Leitung einzuholen.",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Wer sollte in der Regel technische Maßnahmen zur Absicherung eines bestimmten IT-Systems umsetzen?",
+      "antworten": [
+        {
+          "id": "L8f4a1",
+          "option": "1",
+          "text": "die Leitung der IT-Abteilung",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L8f4a2",
+          "option": "2",
+          "text": "der Informationssicherheitsbeauftragte",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L8f4a3",
+          "option": "3",
+          "text": "der zuständige Systemadministrator",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L8f4a4",
+          "option": "4",
+          "text": "der Benutzer des IT-Systems",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Wer sollte üblicherweise prüfen, ob eine Sicherheitsmaßnahme wie geplant umgesetzt ist?",
+      "antworten": [
+        {
+          "id": "L8f5a1",
+          "option": "1",
+          "text": "die Geschäftsführung",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L8f5a2",
+          "option": "2",
+          "text": "der Informationssicherheitsbeauftragte",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L8f5a3",
+          "option": "3",
+          "text": "der zuständige IT-Administrator",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L8f5a4",
+          "option": "4",
+          "text": "die Leitung der IT-Abteilung",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Welches Hilfsmittel im IT-Grundschutz-Kompendium können Sie verwenden, um Ihrer Leitung zu verdeutlichen, welche Risiken die Nichterfüllung von Anforderungen mit sich bringt?",
+      "antworten": [
+        {
+          "id": "L8f6a1",
+          "option": "1",
+          "text": "das Restrisikodeklarationsformular im Anhang des Kompendiums",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L8f6a2",
+          "option": "2",
+          "text": "die Kreuzreferenztabellen am Ende eines Bausteins",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L8f6a3",
+          "option": "3",
+          "text": "das Risikokalkulationsschema in der Übersicht der elementaren Gefährdungen",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L8f6a4",
+          "option": "4",
+          "text": "die Beispiele für eine erfolgreiche Sensibilisierung im Baustein ORP.3 Sensibilisierung und Schulung",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,201 @@
+[
+    {
+      "frage": "Welche Aussagen zum IT-Grundschutz-Check sind zutreffend?",
+      "antworten": [
+        {
+          "id": "L6f1a1",
+          "option": "1",
+          "text": "Ein IT-Grundschutz-Check ermöglicht, Defizite bei der Erfüllung von Sicherheitsanforderungen zu ermitteln.",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L6f1a2",
+          "option": "2",
+          "text": "Bei einem IT-Grundschutz-Check wird lediglich die Erfüllung der Basis-Anforderungen geprüft.",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L6f1a3",
+          "option": "3",
+          "text": "Ein IT-Grundschutz-Check dient dazu, Sicherheitsprobleme zu identifizieren, die in einer Risikoanalyse genauer untersucht werden müssen.",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L6f1a4",
+          "option": "4",
+          "text": "Ein IT-Grundschutz-Check ist ein Soll-Ist-Vergleich zwischen Sicherheitsanforderungen und tatsächlich umgesetzten Sicherheitsmaßnahmen.",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Welche Vorarbeiten erfordert der IT-Grundschutz-Check?",
+      "antworten": [
+        {
+          "id": "L6f2a1",
+          "option": "1",
+          "text": "Die Festlegung eines Zeitplans",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L6f2a2",
+          "option": "2",
+          "text": "Die Auswahl von geeigneten Gesprächspartnern",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L6f2a3",
+          "option": "3",
+          "text": "Einen Penetrationstest, um Schwachstellen zu identifizieren, die mit den ausgewählten Gesprächspartnern erörtert werden",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L6f2a4",
+          "option": "4",
+          "text": "Die Zusammenstellung und Lektüre der vorhandenen Dokumente zur Informationssicherheit in dem betrachteten Informationsverbund",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Welche Verfahren verwenden Sie, um in einem IT-Grundschutz-Check zu prüfen, wie gut eine Gruppe von Clients geschützt ist?",
+      "antworten": [
+        {
+          "id": "L6f3a1",
+          "option": "1",
+          "text": "Sie führen Interviews mit den zuständigen Systembetreuern.",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L6f3a2",
+          "option": "2",
+          "text": "Sie versuchen in einem Penetrationstest, Schwachstellen dieser IT-Systeme zu ermitteln, und beziehen dabei sämtliche zur Gruppe gehörenden Clients ein.",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L6f3a3",
+          "option": "3",
+          "text": "Sie untersuchen stichprobenartig vor Ort, wie die Clients konfiguriert sind.",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L6f3a4",
+          "option": "4",
+          "text": "Sie lesen die vorhandene Dokumentation zur Konfiguration der Clients.",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Wann bewerten Sie beim IT-Grundschutz-Check eine Anforderung eines IT-Grundschutz-Bausteins als erfüllt?",
+      "antworten": [
+        {
+          "id": "L6f4a1",
+          "option": "1",
+          "text": "Wenn zu der Anforderung geeignete Maßnahmen vollständig, wirksam und angemessen umgesetzt sind",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L6f4a2",
+          "option": "2",
+          "text": "Wenn der Gesprächspartner Ihnen glaubhaft versichert hat, dass es bislang zu keinen Sicherheitsproblemen auf dem betreffenden IT-System gekommen ist",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L6f4a3",
+          "option": "3",
+          "text": "Wenn es eine umfangreiche Dokumentation zu den Schutzvorkehrungen für das betreffende IT-System gibt",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L6f4a4",
+          "option": "4",
+          "text": "Wenn sowohl im Interview mit einem für das IT-System Zuständigen als auch bei einer stichprobenartigen Überprüfung keine Sicherheitsmängel festgestellt wurden",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Wie verfahren Sie beim ersten IT-Grundschutz-Check, also vor der Durchführung von Risikoanalysen, mit Anforderungen für den erhöhten Schutzbedarf?",
+      "antworten": [
+        {
+          "id": "L6f5a1",
+          "option": "1",
+          "text": "Sie stufen diese Anforderungen grundsätzlich als entbehrlich ein und verzichten auch dann darauf, diese zu überprüfen, wenn sie in Ihrer Einrichtung umgesetzt sind.",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L6f5a2",
+          "option": "2",
+          "text": "Sie streichen die Anforderungen aus Ihrem Sollkonzept.",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L6f5a3",
+          "option": "3",
+          "text": "Sie betrachten Anforderungen für den hohen und sehr hohen Schutzbedarf erst nach Abschluss der Risikoanalyse.",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L6f5a4",
+          "option": "4",
+          "text": "Sie betrachten im IT-Grundschutz-Check grundsätzlich alle in den IT-Grundschutz-Bausteinen genannten Anforderungen, folglich auch diejenigen für den erhöhten Schutzbedarf.",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Sie stellen fest, dass eine Standard-Anforderung für ein IT-System nicht umgesetzt ist, das nur noch kurze Zeit in Betrieb ist. Wie behandeln Sie diese Anforderung beim IT-Grundschutz-Check?",
+      "antworten": [
+        {
+          "id": "L6f6a1",
+          "option": "1",
+          "text": "Sie streichen die Anforderung aus dem IT-Grundschutz-Modell.",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L6f6a2",
+          "option": "2",
+          "text": "Sie dokumentieren diese als entbehrlich, da ihre Umsetzung nicht mehr wirtschaftlich ist.",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L6f6a3",
+          "option": "3",
+          "text": "Sie dokumentieren diese als nicht erfüllt, und merken gegebenenfalls an, dass geprüft werden muss, ob Maßnahmen zur Behebung dieses Defizits angesichts der kurzen Einsatzzeit des IT-Systems noch angemessen sind.",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L6f6a4",
+          "option": "4",
+          "text": "Sie dokumentieren diese als nicht erfüllt und merken an, dass geprüft werden muss, ob die daraus resultierenden Risiken in der Restlaufzeit des IT-Systems noch tragbar sind.",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        }
+      ]
+    }
+  ]
+  

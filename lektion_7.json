@@ -1,0 +1,201 @@
+[
+    {
+      "frage": "Wer trägt die Verantwortung für die bei einer Risikoanalyse getroffenen Entscheidungen zu einem IT-System?",
+      "antworten": [
+        {
+          "id": "L7f1a1",
+          "option": "1",
+          "text": "der Administrator des IT-Systems",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L7f1a2",
+          "option": "2",
+          "text": "die Leitung der Institution",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L7f1a3",
+          "option": "3",
+          "text": "der Informationssicherheitsbeauftragte",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L7f1a4",
+          "option": "4",
+          "text": "das IS-Management-Team",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Welche Gefährdungen werden bei der Erstellung der Gefährdungsübersicht im ersten Schritt betrachtet?",
+      "antworten": [
+        {
+          "id": "L7f2a1",
+          "option": "1",
+          "text": "die im Anhang von BSI-Standard 200-3 enthaltenen Risikokataloge",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L7f2a2",
+          "option": "2",
+          "text": "die relevanten elementaren Gefährdungen aus dem IT-Grundschutz-Kompendium",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L7f2a3",
+          "option": "3",
+          "text": "die im Anhang der Norm ISO 27005 angeführten Gefährdungen",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L7f2a4",
+          "option": "4",
+          "text": "die in den Abschnitten zur Gefährdungslage eines Bausteins angeführten spezifischen Gefährdungen",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Was bewerten Sie bei der Risikoeinschätzung?",
+      "antworten": [
+        {
+          "id": "L7f3a1",
+          "option": "1",
+          "text": "die Häufigkeit des Eintretens einer Gefährdung",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L7f3a2",
+          "option": "2",
+          "text": "das mit einer Gefährdung verbundene Schadensausmaß",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L7f3a3",
+          "option": "3",
+          "text": "welche Schutzziele von einer Gefährdung betroffen sind",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L7f3a4",
+          "option": "4",
+          "text": "die Wirksamkeit der geplanten und umgesetzten Maßnahmen gegen eine Gefährdung",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Wodurch verlagern Sie ein Risiko?",
+      "antworten": [
+        {
+          "id": "L7f4a1",
+          "option": "1",
+          "text": "durch den Abschluss einer Versicherung",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L7f4a2",
+          "option": "2",
+          "text": "durch Outsourcing des risikobehafteten Geschäftsprozesses an einen externen Dienstleister",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L7f4a3",
+          "option": "3",
+          "text": "durch Umstrukturierung des risikobehafteten Geschäftsprozesses",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L7f4a4",
+          "option": "4",
+          "text": "durch die Entscheidung, risikomindernde Maßnahmen erst dann umzusetzen, wenn die hierzu erforderlichen Finanzmittel bereitstehen",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Aus welchen Gründen kann es gerechtfertigt sein, auch ein hohes Risiko zu akzeptieren?",
+      "antworten": [
+        {
+          "id": "L7f5a1",
+          "option": "1",
+          "text": "Der Aufwand für mögliche Schutzmaßnahmen ist unangemessen hoch.",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L7f5a2",
+          "option": "2",
+          "text": "Vergleichbare Institutionen akzeptieren das Risiko ebenfalls.",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L7f5a3",
+          "option": "3",
+          "text": "Es gibt keine wirksamen Schutzmaßnahmen gegen das Risiko.",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L7f5a4",
+          "option": "4",
+          "text": "Es ist bislang noch zu keinem nennenswerten Sicherheitsvorfall aufgrund der dem Risiko zugrunde liegenden Gefährdung gekommen.",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Wann ist die Risikoakzeptanz grundsätzlich unzulässig?",
+      "antworten": [
+        {
+          "id": "L7f6a1",
+          "option": "1",
+          "text": "bei der Nichterfüllung von Basis-Anforderungen",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L7f6a2",
+          "option": "2",
+          "text": "beim Vorhandensein von elementaren Gefährdungen",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L7f6a3",
+          "option": "3",
+          "text": "bei sehr hohem Schutzbedarf",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L7f6a4",
+          "option": "4",
+          "text": "bei Nichterfüllung von Standard-Anforderungen",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        }
+      ]
+    }
+  ]
+  

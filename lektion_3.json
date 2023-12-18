@@ -1,0 +1,201 @@
+[
+    {
+      "frage": "Welche Ziele verfolgt die Strukturanalyse im Rahmen der IT-Grundschutz-Methodik?",
+      "antworten": [
+        {
+          "id": "L3f1a1",
+          "option": "1",
+          "text": "Die Identifizierung der Objekte, die besonders stark gefährdet sind",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L3f1a2",
+          "option": "2",
+          "text": "Die Ermittlung der Objekte, die in einem Sicherheitskonzept zu berücksichtigen sind",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L3f1a3",
+          "option": "3",
+          "text": "Die angemessene Zusammenfassung von Objekten, für die gleiche Sicherheitsmaßnahmen angewendet werden können",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L3f1a4",
+          "option": "4",
+          "text": "Die Ermittlung der Objekte, für die es passende Bausteine im IT-Grundschutz-Kompendium gibt",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Welche Informationen sollten Netzpläne enthalten, die für die Strukturanalyse benötigt werden?",
+      "antworten": [
+        {
+          "id": "L3f2a1",
+          "option": "1",
+          "text": "Die bei der Erarbeitung des Sicherheitskonzepts beteiligten Organisationseinheiten",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L3f2a2",
+          "option": "2",
+          "text": "Die Art der Vernetzung der IT-Systeme eines Informationsverbundes.",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L3f2a3",
+          "option": "3",
+          "text": "Die Außenverbindungen des Netzes eines Informationsverbundes",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L3f2a4",
+          "option": "4",
+          "text": "Die Art der IT-Systeme eines Informationsverbundes",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Wann bietet es sich an, IT-Systeme bei der Strukturanalyse zu gruppieren?",
+      "antworten": [
+        {
+          "id": "L3f3a1",
+          "option": "1",
+          "text": "Wenn diese den gleichen Schutzbedarf und ähnliche Eigenschaften (Betriebssystem, Netzanbindung, unterstützte Anwendungen) haben",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L3f3a2",
+          "option": "2",
+          "text": "Wenn es für diese Systeme eigene und geeignete Bausteine im IT-Grundschutz-Kompendium gibt",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L3f3a3",
+          "option": "3",
+          "text": "Wenn diese in denselben Räumlichkeiten untergebracht sind",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L3f3a4",
+          "option": "4",
+          "text": "Wenn die Anzahl der insgesamt erfassten Objekte zu groß zu werden droht",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Welche der folgenden Aufgaben gehören gemäß BSI-Standard 200-2 zur Strukturanalyse?",
+      "antworten": [
+        {
+          "id": "L3f4a1",
+          "option": "1",
+          "text": "Die angemessene Gruppierung der Komponenten eines Informationsverbundes",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L3f4a2",
+          "option": "2",
+          "text": "Die Modellierung der Geschäftsprozesse und Fachaufgaben eines Informationsverbundes",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L3f4a3",
+          "option": "3",
+          "text": "Die Überprüfung, ob die eingesetzte IT die Geschäftsprozesse und Fachaufgaben angemessen unterstützt",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L3f4a4",
+          "option": "4",
+          "text": "Die Erhebung der Informationen, Geschäftsprozesse, Anwendungen, IT-Systeme, Kommunikationsverbindungen und räumlichen Gegebenheiten eines Informationsverbundes",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Welche Angaben sind für IT-Systeme bei der Strukturanalyse zu erfassen?",
+      "antworten": [
+        {
+          "id": "L3f5a1",
+          "option": "1",
+          "text": "Typ und Einsatzzweck",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L3f5a2",
+          "option": "2",
+          "text": "Lieferant und Preis",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L3f5a3",
+          "option": "3",
+          "text": "Benutzer und Administrator",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L3f5a4",
+          "option": "4",
+          "text": "Standort (Gebäude und Raum",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        }
+      ]
+    },
+    {
+      "frage": "Welche Anwendungen sind in der Strukturanalyse zu erfassen?",
+      "antworten": [
+        {
+          "id": "L3f6a1",
+          "option": "1",
+          "text": "Alle Anwendungen, die auf den IT-Systemen im Informationsverbund installiert sind",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L3f6a2",
+          "option": "2",
+          "text": "Alle Anwendungen, die für mindestens einen der bereits erfassten Geschäftsprozesse erforderlich sind",
+          "richtig": true,
+          "erklaerung": "Das ist korrekt."
+        },
+        {
+          "id": "L3f6a3",
+          "option": "3",
+          "text": "Alle Anwendungen, für die eine gültige Lizenz vorhanden ist",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        },
+        {
+          "id": "L3f6a4",
+          "option": "4",
+          "text": "Alle Anwendungen, die von mindestens 20 Prozent der Mitarbeiter genutzt werden",
+          "richtig": false,
+          "erklaerung": "Diese Option ist nicht korrekt."
+        }
+      ]
+    }
+  ]
+  

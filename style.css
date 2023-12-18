@@ -1,0 +1,81 @@
+
+  body {
+    background-color: #111;
+    color: #00eeff;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    
+  }
+
+  h2 {
+    color: #00eeff;
+    margin-bottom: 10px;
+  }
+  h1 {
+    color: #00eeff;
+  }
+
+  #quiz {
+    margin-top: 50px;
+    background-color: #111;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #0e6369;
+    text-align: left;
+    display: inline-block;
+    white-space: normal;
+    width: 80%; 
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  fieldset {
+    margin-top: 50px;
+    border: 2px solid #00eeff;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 10px;
+
+  }
+
+  legend {
+    color: #00eeff;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  input[type="checkbox"] {
+    margin-right: 5px;
+    margin-bottom: 5px;
+    cursor: pointer;
+  }
+  fieldset span {
+    display: block;
+    white-space: pre-wrap;
+  }
+
+  span {
+    color: #00ff00;
+    display: none;
+    white-space: normal;
+  }
+  a {
+    color: #00eeff;
+    display: block;
+    margin-bottom: 10px;
+    text-decoration: none;
+    border: 2px solid #00eeff;
+    border-radius: 5px;
+    padding: 10px;
+    width: 200px; /* Anpassbare Breite der Kacheln */
+  }
+  
+  a:hover {
+    background-color: #00eeff;
+    color: #111;
+    text-decoration: none;
+  }
