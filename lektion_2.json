@@ -19,8 +19,8 @@
         {"id": "L2f1a3",
         "option": "3", 
         "text": "ein auf stetige Verbesserung angelegtes Modell", 
-        "richtig": false, 
-        "erklaerung": "Diese Option ist nicht korrekt."
+        "richtig": true, 
+        "erklaerung": "Erfolgskontrolle und die kontinuierliche Verbesserung gehören zu den wichtigsten Managementprinzipien im Sicherheitsprozzess."
         },
         {
         "id": "L2f1a4",
